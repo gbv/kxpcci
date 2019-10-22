@@ -1,121 +1,121 @@
-notation
-LI 99999
-GN 9999
-GE 6701
-QB 910
-HU 9800
-AP 94100
-GB 1632
-NZ 14420
-HN 9990
-GE 6919
-GE 6918
-QP 300
-GM 7651
-DX 4250
-DX 4060
-IH 91900
-CU 8000
-QA 32110
-HD 220
-KK 8510
-AP 51400
-BQ 4920
-ST 250
-DX 4450
-ZO 5050
-GB 2980
-CC 7200
-QP 600
-QP 345
-SS 4800
-BS 4780
-CQ 6000
-MS 3000
-CB 5100
-LV 51000
-BC 2505
-QP 340
-MS 3600
-GB 3044
-CU 2000
-QM 000
-BC 2205
-GB 3000
-ST 230
-QV 200
-ZH 4800
-CC 6600
-BO 1160
-CC 8500
-SM 340
-ID 1572
-ND 7240
-SK 950
-PC 4630
-QV 584
-BC 6220
-QP 360
-BC 4800
-DX 4500
-QB 400
-QR 800
-QT 200
-DX 4300
-ZO 7000
-LT 61000
-NZ 10450
-QD 000
-QP 820
-AP 59800
-QC 072
-QX 000
-QM 430
-DX 4150
-CV 3500
-CW 4500
-CP 4000
-ST 200
-QH 500
-RB 10063
-NQ 2360
-BC 2555
-UC 100
-EC 5410
-NN 1810
-QT 000
-QY 000
-NK 1800
-QP 530
-CC 4400
-LT 11750
-BU 4050
-QD 110
-UD 1900
-CZ 3000
-ZO 4420
-CR 6000
-QC 340
-MS 1290
-CV 8000
-QR 530
-QK 300
-BB 1340
-QV 578
-HI 3280
-FB 3725
-QE 800
-QP 342
-NK 4600
-QP 621
-CU 4000
-QV 570
-NB 9310
-LH 65880
-QX 700
-IV 51280
-QM 420
-KP 9920
-DX 4900
-NK 8200
-BC 2500
+notation,prefLabel,cocoda
+"LI 99999","Sonstige (CSN der Person)",https://coli-conc.gbv.de/cocoda/app/?fromScheme=http%3A%2F%2Furi.gbv.de%2Fterminology%2Frvk%2F&toScheme=http%3A%2F%2Furi.gbv.de%2Fterminology%2Fbk%2F&from=http%3A%2F%2Frvk.uni-regensburg.de%2Fnt%2FLI%252099999
+"GN 9999",Sonstige,https://coli-conc.gbv.de/cocoda/app/?fromScheme=http%3A%2F%2Furi.gbv.de%2Fterminology%2Frvk%2F&toScheme=http%3A%2F%2Furi.gbv.de%2Fterminology%2Fbk%2F&from=http%3A%2F%2Frvk.uni-regensburg.de%2Fnt%2FGN%25209999
+"GE 6701","Allgemeine Sammlungen",https://coli-conc.gbv.de/cocoda/app/?fromScheme=http%3A%2F%2Furi.gbv.de%2Fterminology%2Frvk%2F&toScheme=http%3A%2F%2Furi.gbv.de%2Fterminology%2Fbk%2F&from=http%3A%2F%2Frvk.uni-regensburg.de%2Fnt%2FGE%25206701
+"QB 910","Aufsatzsammlungen vermischten Inhalts",https://coli-conc.gbv.de/cocoda/app/?fromScheme=http%3A%2F%2Furi.gbv.de%2Fterminology%2Frvk%2F&toScheme=http%3A%2F%2Furi.gbv.de%2Fterminology%2Fbk%2F&from=http%3A%2F%2Frvk.uni-regensburg.de%2Fnt%2FQB%2520910
+"HU 9800",Sonstige,https://coli-conc.gbv.de/cocoda/app/?fromScheme=http%3A%2F%2Furi.gbv.de%2Fterminology%2Frvk%2F&toScheme=http%3A%2F%2Furi.gbv.de%2Fterminology%2Fbk%2F&from=http%3A%2F%2Frvk.uni-regensburg.de%2Fnt%2FHU%25209800
+"AP 94100","Biografien, Memoiren, Tagebücher, Briefe, Bildbände einzelner Fotografen  (CSN des Personennamens)",https://coli-conc.gbv.de/cocoda/app/?fromScheme=http%3A%2F%2Furi.gbv.de%2Fterminology%2Frvk%2F&toScheme=http%3A%2F%2Furi.gbv.de%2Fterminology%2Fbk%2F&from=http%3A%2F%2Frvk.uni-regensburg.de%2Fnt%2FAP%252094100
+"GB 1632","Allgemeine literaturwissenschaftliche Bibliografien",https://coli-conc.gbv.de/cocoda/app/?fromScheme=http%3A%2F%2Furi.gbv.de%2Fterminology%2Frvk%2F&toScheme=http%3A%2F%2Furi.gbv.de%2Fterminology%2Fbk%2F&from=http%3A%2F%2Frvk.uni-regensburg.de%2Fnt%2FGB%25201632
+"NZ 14420","Einzelne Orte (alph.)",https://coli-conc.gbv.de/cocoda/app/?fromScheme=http%3A%2F%2Furi.gbv.de%2Fterminology%2Frvk%2F&toScheme=http%3A%2F%2Furi.gbv.de%2Fterminology%2Fbk%2F&from=http%3A%2F%2Frvk.uni-regensburg.de%2Fnt%2FNZ%252014420
+"HN 9990",Sonstige,https://coli-conc.gbv.de/cocoda/app/?fromScheme=http%3A%2F%2Furi.gbv.de%2Fterminology%2Frvk%2F&toScheme=http%3A%2F%2Furi.gbv.de%2Fterminology%2Fbk%2F&from=http%3A%2F%2Frvk.uni-regensburg.de%2Fnt%2FHN%25209990
+"GE 6919","Kinderbücher (Textsammlungen und einzelne Autoren)",https://coli-conc.gbv.de/cocoda/app/?fromScheme=http%3A%2F%2Furi.gbv.de%2Fterminology%2Frvk%2F&toScheme=http%3A%2F%2Furi.gbv.de%2Fterminology%2Fbk%2F&from=http%3A%2F%2Frvk.uni-regensburg.de%2Fnt%2FGE%25206919
+"GE 6918","Jugendliteratur (Textsammlungen und einzelne Autoren)",https://coli-conc.gbv.de/cocoda/app/?fromScheme=http%3A%2F%2Furi.gbv.de%2Fterminology%2Frvk%2F&toScheme=http%3A%2F%2Furi.gbv.de%2Fterminology%2Fbk%2F&from=http%3A%2F%2Frvk.uni-regensburg.de%2Fnt%2FGE%25206918
+"QP 300",Allgemeines,https://coli-conc.gbv.de/cocoda/app/?fromScheme=http%3A%2F%2Furi.gbv.de%2Fterminology%2Frvk%2F&toScheme=http%3A%2F%2Furi.gbv.de%2Fterminology%2Fbk%2F&from=http%3A%2F%2Frvk.uni-regensburg.de%2Fnt%2FQP%2520300
+"GM 7651",Sonstige,https://coli-conc.gbv.de/cocoda/app/?fromScheme=http%3A%2F%2Furi.gbv.de%2Fterminology%2Frvk%2F&toScheme=http%3A%2F%2Furi.gbv.de%2Fterminology%2Fbk%2F&from=http%3A%2F%2Frvk.uni-regensburg.de%2Fnt%2FGM%25207651
+"DX 4250",Primärliteratur,https://coli-conc.gbv.de/cocoda/app/?fromScheme=http%3A%2F%2Furi.gbv.de%2Fterminology%2Frvk%2F&toScheme=http%3A%2F%2Furi.gbv.de%2Fterminology%2Fbk%2F&from=http%3A%2F%2Frvk.uni-regensburg.de%2Fnt%2FDX%25204250
+"DX 4060",Primärliteratur,https://coli-conc.gbv.de/cocoda/app/?fromScheme=http%3A%2F%2Furi.gbv.de%2Fterminology%2Frvk%2F&toScheme=http%3A%2F%2Furi.gbv.de%2Fterminology%2Fbk%2F&from=http%3A%2F%2Frvk.uni-regensburg.de%2Fnt%2FDX%25204060
+"IH 91900","Übrige Autoren",https://coli-conc.gbv.de/cocoda/app/?fromScheme=http%3A%2F%2Furi.gbv.de%2Fterminology%2Frvk%2F&toScheme=http%3A%2F%2Furi.gbv.de%2Fterminology%2Fbk%2F&from=http%3A%2F%2Frvk.uni-regensburg.de%2Fnt%2FIH%252091900
+"CU 8000","Allgemeines, Einführungen, Gesamtdarstellungen",https://coli-conc.gbv.de/cocoda/app/?fromScheme=http%3A%2F%2Furi.gbv.de%2Fterminology%2Frvk%2F&toScheme=http%3A%2F%2Furi.gbv.de%2Fterminology%2Fbk%2F&from=http%3A%2F%2Frvk.uni-regensburg.de%2Fnt%2FCU%25208000
+"QA 32110",,https://coli-conc.gbv.de/cocoda/app/?fromScheme=http%3A%2F%2Furi.gbv.de%2Fterminology%2Frvk%2F&toScheme=http%3A%2F%2Furi.gbv.de%2Fterminology%2Fbk%2F&from=http%3A%2F%2Frvk.uni-regensburg.de%2Fnt%2FQA%252032110
+"HD 220","Grammatik, Schulbuch, Sprachführer",https://coli-conc.gbv.de/cocoda/app/?fromScheme=http%3A%2F%2Furi.gbv.de%2Fterminology%2Frvk%2F&toScheme=http%3A%2F%2Furi.gbv.de%2Fterminology%2Fbk%2F&from=http%3A%2F%2Frvk.uni-regensburg.de%2Fnt%2FHD%2520220
+"KK 8510",Sonstige,https://coli-conc.gbv.de/cocoda/app/?fromScheme=http%3A%2F%2Furi.gbv.de%2Fterminology%2Frvk%2F&toScheme=http%3A%2F%2Furi.gbv.de%2Fterminology%2Fbk%2F&from=http%3A%2F%2Frvk.uni-regensburg.de%2Fnt%2FKK%25208510
+"AP 51400","Sonstige Regisseure (einzelne)",https://coli-conc.gbv.de/cocoda/app/?fromScheme=http%3A%2F%2Furi.gbv.de%2Fterminology%2Frvk%2F&toScheme=http%3A%2F%2Furi.gbv.de%2Fterminology%2Fbk%2F&from=http%3A%2F%2Frvk.uni-regensburg.de%2Fnt%2FAP%252051400
+"BQ 4920",Gesangbücher,https://coli-conc.gbv.de/cocoda/app/?fromScheme=http%3A%2F%2Furi.gbv.de%2Fterminology%2Frvk%2F&toScheme=http%3A%2F%2Furi.gbv.de%2Fterminology%2Fbk%2F&from=http%3A%2F%2Frvk.uni-regensburg.de%2Fnt%2FBQ%25204920
+"ST 250","Einzelne Programmiersprachen (A-Z)",https://coli-conc.gbv.de/cocoda/app/?fromScheme=http%3A%2F%2Furi.gbv.de%2Fterminology%2Frvk%2F&toScheme=http%3A%2F%2Furi.gbv.de%2Fterminology%2Fbk%2F&from=http%3A%2F%2Frvk.uni-regensburg.de%2Fnt%2FST%2520250
+"DX 4450",Primärliteratur,https://coli-conc.gbv.de/cocoda/app/?fromScheme=http%3A%2F%2Furi.gbv.de%2Fterminology%2Frvk%2F&toScheme=http%3A%2F%2Furi.gbv.de%2Fterminology%2Fbk%2F&from=http%3A%2F%2Frvk.uni-regensburg.de%2Fnt%2FDX%25204450
+"ZO 5050","Allgemeine Darstellungen mit umfassender Thematik",https://coli-conc.gbv.de/cocoda/app/?fromScheme=http%3A%2F%2Furi.gbv.de%2Fterminology%2Frvk%2F&toScheme=http%3A%2F%2Furi.gbv.de%2Fterminology%2Fbk%2F&from=http%3A%2F%2Frvk.uni-regensburg.de%2Fnt%2FZO%25205050
+"GB 2980","Sprachlehrbücher und Schulgrammatiken",https://coli-conc.gbv.de/cocoda/app/?fromScheme=http%3A%2F%2Furi.gbv.de%2Fterminology%2Frvk%2F&toScheme=http%3A%2F%2Furi.gbv.de%2Fterminology%2Fbk%2F&from=http%3A%2F%2Frvk.uni-regensburg.de%2Fnt%2FGB%25202980
+"CC 7200",Abhandlungen,https://coli-conc.gbv.de/cocoda/app/?fromScheme=http%3A%2F%2Furi.gbv.de%2Fterminology%2Frvk%2F&toScheme=http%3A%2F%2Furi.gbv.de%2Fterminology%2Fbk%2F&from=http%3A%2F%2Frvk.uni-regensburg.de%2Fnt%2FCC%25207200
+"QP 600",Allgemeines,https://coli-conc.gbv.de/cocoda/app/?fromScheme=http%3A%2F%2Furi.gbv.de%2Fterminology%2Frvk%2F&toScheme=http%3A%2F%2Furi.gbv.de%2Fterminology%2Fbk%2F&from=http%3A%2F%2Frvk.uni-regensburg.de%2Fnt%2FQP%2520600
+"QP 345","Informationswesen. Informationssysteme",https://coli-conc.gbv.de/cocoda/app/?fromScheme=http%3A%2F%2Furi.gbv.de%2Fterminology%2Frvk%2F&toScheme=http%3A%2F%2Furi.gbv.de%2Fterminology%2Fbk%2F&from=http%3A%2F%2Frvk.uni-regensburg.de%2Fnt%2FQP%2520345
+"SS 4800","Lecture notes in computer science",https://coli-conc.gbv.de/cocoda/app/?fromScheme=http%3A%2F%2Furi.gbv.de%2Fterminology%2Frvk%2F&toScheme=http%3A%2F%2Furi.gbv.de%2Fterminology%2Fbk%2F&from=http%3A%2F%2Frvk.uni-regensburg.de%2Fnt%2FSS%25204800
+"BS 4780",1517-1963,https://coli-conc.gbv.de/cocoda/app/?fromScheme=http%3A%2F%2Furi.gbv.de%2Fterminology%2Frvk%2F&toScheme=http%3A%2F%2Furi.gbv.de%2Fterminology%2Fbk%2F&from=http%3A%2F%2Frvk.uni-regensburg.de%2Fnt%2FBS%25204780
+"CQ 6000","Kindheit und Jugend",https://coli-conc.gbv.de/cocoda/app/?fromScheme=http%3A%2F%2Furi.gbv.de%2Fterminology%2Frvk%2F&toScheme=http%3A%2F%2Furi.gbv.de%2Fterminology%2Fbk%2F&from=http%3A%2F%2Frvk.uni-regensburg.de%2Fnt%2FCQ%25206000
+"MS 3000",Allgemeines,https://coli-conc.gbv.de/cocoda/app/?fromScheme=http%3A%2F%2Furi.gbv.de%2Fterminology%2Frvk%2F&toScheme=http%3A%2F%2Furi.gbv.de%2Fterminology%2Fbk%2F&from=http%3A%2F%2Frvk.uni-regensburg.de%2Fnt%2FMS%25203000
+"CB 5100","Fachlich unspezifische Darstellungen, Essays",https://coli-conc.gbv.de/cocoda/app/?fromScheme=http%3A%2F%2Furi.gbv.de%2Fterminology%2Frvk%2F&toScheme=http%3A%2F%2Furi.gbv.de%2Fterminology%2Fbk%2F&from=http%3A%2F%2Frvk.uni-regensburg.de%2Fnt%2FCB%25205100
+"LV 51000","Allgemeines, mehrere Liedgattungen (z.B. Balladen und Liebeslieder)",https://coli-conc.gbv.de/cocoda/app/?fromScheme=http%3A%2F%2Furi.gbv.de%2Fterminology%2Frvk%2F&toScheme=http%3A%2F%2Furi.gbv.de%2Fterminology%2Fbk%2F&from=http%3A%2F%2Frvk.uni-regensburg.de%2Fnt%2FLV%252051000
+"BC 2505","= Deutsch",https://coli-conc.gbv.de/cocoda/app/?fromScheme=http%3A%2F%2Furi.gbv.de%2Fterminology%2Frvk%2F&toScheme=http%3A%2F%2Furi.gbv.de%2Fterminology%2Fbk%2F&from=http%3A%2F%2Frvk.uni-regensburg.de%2Fnt%2FBC%25202505
+"QP 340",Allgemeines,https://coli-conc.gbv.de/cocoda/app/?fromScheme=http%3A%2F%2Furi.gbv.de%2Fterminology%2Frvk%2F&toScheme=http%3A%2F%2Furi.gbv.de%2Fterminology%2Fbk%2F&from=http%3A%2F%2Frvk.uni-regensburg.de%2Fnt%2FQP%2520340
+"MS 3600","Emigranten, Immigranten, Flüchtlinge",https://coli-conc.gbv.de/cocoda/app/?fromScheme=http%3A%2F%2Furi.gbv.de%2Fterminology%2Frvk%2F&toScheme=http%3A%2F%2Furi.gbv.de%2Fterminology%2Fbk%2F&from=http%3A%2F%2Frvk.uni-regensburg.de%2Fnt%2FMS%25203600
+"GB 3044","Sprachkurse, Sprachlehrbücher",https://coli-conc.gbv.de/cocoda/app/?fromScheme=http%3A%2F%2Furi.gbv.de%2Fterminology%2Frvk%2F&toScheme=http%3A%2F%2Furi.gbv.de%2Fterminology%2Fbk%2F&from=http%3A%2F%2Frvk.uni-regensburg.de%2Fnt%2FGB%25203044
+"CU 2000","Tiefenpsychologie und Psychoanalyse, Allgemeines",https://coli-conc.gbv.de/cocoda/app/?fromScheme=http%3A%2F%2Furi.gbv.de%2Fterminology%2Frvk%2F&toScheme=http%3A%2F%2Furi.gbv.de%2Fterminology%2Fbk%2F&from=http%3A%2F%2Frvk.uni-regensburg.de%2Fnt%2FCU%25202000
+"QM 000","Allgemeines (reale und monetäre Aspekte)",https://coli-conc.gbv.de/cocoda/app/?fromScheme=http%3A%2F%2Furi.gbv.de%2Fterminology%2Frvk%2F&toScheme=http%3A%2F%2Furi.gbv.de%2Fterminology%2Fbk%2F&from=http%3A%2F%2Frvk.uni-regensburg.de%2Fnt%2FQM%2520000
+"BC 2205","= Deutsch",https://coli-conc.gbv.de/cocoda/app/?fromScheme=http%3A%2F%2Furi.gbv.de%2Fterminology%2Frvk%2F&toScheme=http%3A%2F%2Furi.gbv.de%2Fterminology%2Fbk%2F&from=http%3A%2F%2Frvk.uni-regensburg.de%2Fnt%2FBC%25202205
+"GB 3000",Lesebücher,https://coli-conc.gbv.de/cocoda/app/?fromScheme=http%3A%2F%2Furi.gbv.de%2Fterminology%2Frvk%2F&toScheme=http%3A%2F%2Furi.gbv.de%2Fterminology%2Fbk%2F&from=http%3A%2F%2Frvk.uni-regensburg.de%2Fnt%2FGB%25203000
+"ST 230","Software allgemein, (Einführung, Lehrbücher, Methoden der Programmierung) Software engineering, Programmentwicklungssysteme und Frameworks, Softwarewerkzeuge",https://coli-conc.gbv.de/cocoda/app/?fromScheme=http%3A%2F%2Furi.gbv.de%2Fterminology%2Frvk%2F&toScheme=http%3A%2F%2Furi.gbv.de%2Fterminology%2Fbk%2F&from=http%3A%2F%2Frvk.uni-regensburg.de%2Fnt%2FST%2520230
+"QV 200",Allgemeines,https://coli-conc.gbv.de/cocoda/app/?fromScheme=http%3A%2F%2Furi.gbv.de%2Fterminology%2Frvk%2F&toScheme=http%3A%2F%2Furi.gbv.de%2Fterminology%2Fbk%2F&from=http%3A%2F%2Frvk.uni-regensburg.de%2Fnt%2FQV%2520200
+"ZH 4800","Leben und Werk einzelner Architekten (CSN des Namens)",https://coli-conc.gbv.de/cocoda/app/?fromScheme=http%3A%2F%2Furi.gbv.de%2Fterminology%2Frvk%2F&toScheme=http%3A%2F%2Furi.gbv.de%2Fterminology%2Fbk%2F&from=http%3A%2F%2Frvk.uni-regensburg.de%2Fnt%2FZH%25204800
+"CC 6600",Abhandlungen,https://coli-conc.gbv.de/cocoda/app/?fromScheme=http%3A%2F%2Furi.gbv.de%2Fterminology%2Frvk%2F&toScheme=http%3A%2F%2Furi.gbv.de%2Fterminology%2Fbk%2F&from=http%3A%2F%2Frvk.uni-regensburg.de%2Fnt%2FCC%25206600
+"BO 1160",Patristik,https://coli-conc.gbv.de/cocoda/app/?fromScheme=http%3A%2F%2Furi.gbv.de%2Fterminology%2Frvk%2F&toScheme=http%3A%2F%2Furi.gbv.de%2Fterminology%2Fbk%2F&from=http%3A%2F%2Frvk.uni-regensburg.de%2Fnt%2FBO%25201160
+"CC 8500",Abhandlungen,https://coli-conc.gbv.de/cocoda/app/?fromScheme=http%3A%2F%2Furi.gbv.de%2Fterminology%2Frvk%2F&toScheme=http%3A%2F%2Furi.gbv.de%2Fterminology%2Fbk%2F&from=http%3A%2F%2Frvk.uni-regensburg.de%2Fnt%2FCC%25208500
+"SM 340","Sekundarstufe I",https://coli-conc.gbv.de/cocoda/app/?fromScheme=http%3A%2F%2Furi.gbv.de%2Fterminology%2Frvk%2F&toScheme=http%3A%2F%2Furi.gbv.de%2Fterminology%2Fbk%2F&from=http%3A%2F%2Frvk.uni-regensburg.de%2Fnt%2FSM%2520340
+"ID 1572","Grammatik, Übungsbücher, Sprachführer",https://coli-conc.gbv.de/cocoda/app/?fromScheme=http%3A%2F%2Furi.gbv.de%2Fterminology%2Frvk%2F&toScheme=http%3A%2F%2Furi.gbv.de%2Fterminology%2Fbk%2F&from=http%3A%2F%2Frvk.uni-regensburg.de%2Fnt%2FID%25201572
+"ND 7240",Allgemeines,https://coli-conc.gbv.de/cocoda/app/?fromScheme=http%3A%2F%2Furi.gbv.de%2Fterminology%2Frvk%2F&toScheme=http%3A%2F%2Furi.gbv.de%2Fterminology%2Fbk%2F&from=http%3A%2F%2Frvk.uni-regensburg.de%2Fnt%2FND%25207240
+"SK 950","Mathematische Methoden in den Naturwissenschaften",https://coli-conc.gbv.de/cocoda/app/?fromScheme=http%3A%2F%2Furi.gbv.de%2Fterminology%2Frvk%2F&toScheme=http%3A%2F%2Furi.gbv.de%2Fterminology%2Fbk%2F&from=http%3A%2F%2Frvk.uni-regensburg.de%2Fnt%2FSK%2520950
+"PC 4630","Für Personen",https://coli-conc.gbv.de/cocoda/app/?fromScheme=http%3A%2F%2Furi.gbv.de%2Fterminology%2Frvk%2F&toScheme=http%3A%2F%2Furi.gbv.de%2Fterminology%2Fbk%2F&from=http%3A%2F%2Frvk.uni-regensburg.de%2Fnt%2FPC%25204630
+"QV 584",Führung,https://coli-conc.gbv.de/cocoda/app/?fromScheme=http%3A%2F%2Furi.gbv.de%2Fterminology%2Frvk%2F&toScheme=http%3A%2F%2Furi.gbv.de%2Fterminology%2Fbk%2F&from=http%3A%2F%2Frvk.uni-regensburg.de%2Fnt%2FQV%2520584
+"BC 6220","Bibel in der Kunst, Kulturgeschichte und Dichtung",https://coli-conc.gbv.de/cocoda/app/?fromScheme=http%3A%2F%2Furi.gbv.de%2Fterminology%2Frvk%2F&toScheme=http%3A%2F%2Furi.gbv.de%2Fterminology%2Fbk%2F&from=http%3A%2F%2Frvk.uni-regensburg.de%2Fnt%2FBC%25206220
+"QP 360","Planung und Kontrolle, Allgemeines",https://coli-conc.gbv.de/cocoda/app/?fromScheme=http%3A%2F%2Furi.gbv.de%2Fterminology%2Frvk%2F&toScheme=http%3A%2F%2Furi.gbv.de%2Fterminology%2Fbk%2F&from=http%3A%2F%2Frvk.uni-regensburg.de%2Fnt%2FQP%2520360
+"BC 4800","Neues Testament Gesamt",https://coli-conc.gbv.de/cocoda/app/?fromScheme=http%3A%2F%2Furi.gbv.de%2Fterminology%2Frvk%2F&toScheme=http%3A%2F%2Furi.gbv.de%2Fterminology%2Fbk%2F&from=http%3A%2F%2Frvk.uni-regensburg.de%2Fnt%2FBC%25204800
+"DX 4500",Primärliteratur,https://coli-conc.gbv.de/cocoda/app/?fromScheme=http%3A%2F%2Furi.gbv.de%2Fterminology%2Frvk%2F&toScheme=http%3A%2F%2Furi.gbv.de%2Fterminology%2Fbk%2F&from=http%3A%2F%2Frvk.uni-regensburg.de%2Fnt%2FDX%25204500
+"QB 400","Wirtschaftswissenschaftliche Forschung. Arbeitsgebiete einzelner Hochschulen, Institute, Behörden und dgl. Wirtschaftswissenschaftliche Gesellschaften Wirtschaftsinformationsdienst",https://coli-conc.gbv.de/cocoda/app/?fromScheme=http%3A%2F%2Furi.gbv.de%2Fterminology%2Frvk%2F&toScheme=http%3A%2F%2Furi.gbv.de%2Fterminology%2Fbk%2F&from=http%3A%2F%2Frvk.uni-regensburg.de%2Fnt%2FQB%2520400
+"QR 800",Allgemeines,https://coli-conc.gbv.de/cocoda/app/?fromScheme=http%3A%2F%2Furi.gbv.de%2Fterminology%2Frvk%2F&toScheme=http%3A%2F%2Furi.gbv.de%2Fterminology%2Fbk%2F&from=http%3A%2F%2Frvk.uni-regensburg.de%2Fnt%2FQR%2520800
+"QT 200","Erhaltungsmaßnahmen",https://coli-conc.gbv.de/cocoda/app/?fromScheme=http%3A%2F%2Furi.gbv.de%2Fterminology%2Frvk%2F&toScheme=http%3A%2F%2Furi.gbv.de%2Fterminology%2Fbk%2F&from=http%3A%2F%2Frvk.uni-regensburg.de%2Fnt%2FQT%2520200
+"DX 4300",Primärliteratur,https://coli-conc.gbv.de/cocoda/app/?fromScheme=http%3A%2F%2Furi.gbv.de%2Fterminology%2Frvk%2F&toScheme=http%3A%2F%2Furi.gbv.de%2Fterminology%2Fbk%2F&from=http%3A%2F%2Frvk.uni-regensburg.de%2Fnt%2FDX%25204300
+"ZO 7000",Allgemeines,https://coli-conc.gbv.de/cocoda/app/?fromScheme=http%3A%2F%2Furi.gbv.de%2Fterminology%2Frvk%2F&toScheme=http%3A%2F%2Furi.gbv.de%2Fterminology%2Fbk%2F&from=http%3A%2F%2Frvk.uni-regensburg.de%2Fnt%2FZO%25207000
+"LT 61000","Edition Eulenburg",https://coli-conc.gbv.de/cocoda/app/?fromScheme=http%3A%2F%2Furi.gbv.de%2Fterminology%2Frvk%2F&toScheme=http%3A%2F%2Furi.gbv.de%2Fterminology%2Fbk%2F&from=http%3A%2F%2Frvk.uni-regensburg.de%2Fnt%2FLT%252061000
+"NZ 10450",Kirchengeschichte,https://coli-conc.gbv.de/cocoda/app/?fromScheme=http%3A%2F%2Furi.gbv.de%2Fterminology%2Frvk%2F&toScheme=http%3A%2F%2Furi.gbv.de%2Fterminology%2Fbk%2F&from=http%3A%2F%2Frvk.uni-regensburg.de%2Fnt%2FNZ%252010450
+"QD 000",Allgemeines,https://coli-conc.gbv.de/cocoda/app/?fromScheme=http%3A%2F%2Furi.gbv.de%2Fterminology%2Frvk%2F&toScheme=http%3A%2F%2Furi.gbv.de%2Fterminology%2Fbk%2F&from=http%3A%2F%2Frvk.uni-regensburg.de%2Fnt%2FQD%2520000
+"QP 820",Allgemeines,https://coli-conc.gbv.de/cocoda/app/?fromScheme=http%3A%2F%2Furi.gbv.de%2Fterminology%2Frvk%2F&toScheme=http%3A%2F%2Furi.gbv.de%2Fterminology%2Fbk%2F&from=http%3A%2F%2Frvk.uni-regensburg.de%2Fnt%2FQP%2520820
+"AP 59800","Sekundärliteratur zu einzelnen Filmen",https://coli-conc.gbv.de/cocoda/app/?fromScheme=http%3A%2F%2Furi.gbv.de%2Fterminology%2Frvk%2F&toScheme=http%3A%2F%2Furi.gbv.de%2Fterminology%2Fbk%2F&from=http%3A%2F%2Frvk.uni-regensburg.de%2Fnt%2FAP%252059800
+"QC 072","Veröffentlichungen seit 1930 (einschließlich späterer Nachdrucke)",https://coli-conc.gbv.de/cocoda/app/?fromScheme=http%3A%2F%2Furi.gbv.de%2Fterminology%2Frvk%2F&toScheme=http%3A%2F%2Furi.gbv.de%2Fterminology%2Fbk%2F&from=http%3A%2F%2Frvk.uni-regensburg.de%2Fnt%2FQC%2520072
+"QX 000","Allgemeines. Soziale Sicherheit",https://coli-conc.gbv.de/cocoda/app/?fromScheme=http%3A%2F%2Furi.gbv.de%2Fterminology%2Frvk%2F&toScheme=http%3A%2F%2Furi.gbv.de%2Fterminology%2Fbk%2F&from=http%3A%2F%2Frvk.uni-regensburg.de%2Fnt%2FQX%2520000
+"QM 430","Europäische Union",https://coli-conc.gbv.de/cocoda/app/?fromScheme=http%3A%2F%2Furi.gbv.de%2Fterminology%2Frvk%2F&toScheme=http%3A%2F%2Furi.gbv.de%2Fterminology%2Fbk%2F&from=http%3A%2F%2Frvk.uni-regensburg.de%2Fnt%2FQM%2520430
+"DX 4150",Primärliteratur,https://coli-conc.gbv.de/cocoda/app/?fromScheme=http%3A%2F%2Furi.gbv.de%2Fterminology%2Frvk%2F&toScheme=http%3A%2F%2Furi.gbv.de%2Fterminology%2Fbk%2F&from=http%3A%2F%2Frvk.uni-regensburg.de%2Fnt%2FDX%25204150
+"CV 3500","Interpersonelle Kommunikation (verbale und nonverbale Kommunikation)",https://coli-conc.gbv.de/cocoda/app/?fromScheme=http%3A%2F%2Furi.gbv.de%2Fterminology%2Frvk%2F&toScheme=http%3A%2F%2Furi.gbv.de%2Fterminology%2Fbk%2F&from=http%3A%2F%2Frvk.uni-regensburg.de%2Fnt%2FCV%25203500
+"CW 4500","Betriebs- und Organisationspsychologie einschließlich Sozialpsychologie des Betriebes, Führungsprobleme, Jugendliche im Betrieb",https://coli-conc.gbv.de/cocoda/app/?fromScheme=http%3A%2F%2Furi.gbv.de%2Fterminology%2Frvk%2F&toScheme=http%3A%2F%2Furi.gbv.de%2Fterminology%2Fbk%2F&from=http%3A%2F%2Frvk.uni-regensburg.de%2Fnt%2FCW%25204500
+"CP 4000","Kognitive Prozesse (Denken, Urteil, Problemlösen, Begriffsbildung, Assoziation)",https://coli-conc.gbv.de/cocoda/app/?fromScheme=http%3A%2F%2Furi.gbv.de%2Fterminology%2Frvk%2F&toScheme=http%3A%2F%2Furi.gbv.de%2Fterminology%2Fbk%2F&from=http%3A%2F%2Frvk.uni-regensburg.de%2Fnt%2FCP%25204000
+"ST 200","Allgemeines, Netzmanagement",https://coli-conc.gbv.de/cocoda/app/?fromScheme=http%3A%2F%2Furi.gbv.de%2Fterminology%2Frvk%2F&toScheme=http%3A%2F%2Furi.gbv.de%2Fterminology%2Fbk%2F&from=http%3A%2F%2Frvk.uni-regensburg.de%2Fnt%2FST%2520200
+"QH 500","Wirtschaftsinformatik. Datenverarbeitung. Allgemeines",https://coli-conc.gbv.de/cocoda/app/?fromScheme=http%3A%2F%2Furi.gbv.de%2Fterminology%2Frvk%2F&toScheme=http%3A%2F%2Furi.gbv.de%2Fterminology%2Fbk%2F&from=http%3A%2F%2Frvk.uni-regensburg.de%2Fnt%2FQH%2520500
+"RB 10063","für Gymnasien, Mittelschulen, Grundschulen",https://coli-conc.gbv.de/cocoda/app/?fromScheme=http%3A%2F%2Furi.gbv.de%2Fterminology%2Frvk%2F&toScheme=http%3A%2F%2Furi.gbv.de%2Fterminology%2Fbk%2F&from=http%3A%2F%2Frvk.uni-regensburg.de%2Fnt%2FRB%252010063
+"NQ 2360","Judenverfolgung / Antisemitismus im Dritten Reich (Judenfrage)",https://coli-conc.gbv.de/cocoda/app/?fromScheme=http%3A%2F%2Furi.gbv.de%2Fterminology%2Frvk%2F&toScheme=http%3A%2F%2Furi.gbv.de%2Fterminology%2Fbk%2F&from=http%3A%2F%2Frvk.uni-regensburg.de%2Fnt%2FNQ%25202360
+"BC 2555","= Deutsch",https://coli-conc.gbv.de/cocoda/app/?fromScheme=http%3A%2F%2Furi.gbv.de%2Fterminology%2Frvk%2F&toScheme=http%3A%2F%2Furi.gbv.de%2Fterminology%2Fbk%2F&from=http%3A%2F%2Frvk.uni-regensburg.de%2Fnt%2FBC%25202555
+"UC 100","Allgemeine Lehrbücher der Physik",https://coli-conc.gbv.de/cocoda/app/?fromScheme=http%3A%2F%2Furi.gbv.de%2Fterminology%2Frvk%2F&toScheme=http%3A%2F%2Furi.gbv.de%2Fterminology%2Fbk%2F&from=http%3A%2F%2Frvk.uni-regensburg.de%2Fnt%2FUC%2520100
+"EC 5410","Einzelne Stoffe und Motive",https://coli-conc.gbv.de/cocoda/app/?fromScheme=http%3A%2F%2Furi.gbv.de%2Fterminology%2Frvk%2F&toScheme=http%3A%2F%2Furi.gbv.de%2Fterminology%2Fbk%2F&from=http%3A%2F%2Frvk.uni-regensburg.de%2Fnt%2FEC%25205410
+"NN 1810",Werke,https://coli-conc.gbv.de/cocoda/app/?fromScheme=http%3A%2F%2Furi.gbv.de%2Fterminology%2Frvk%2F&toScheme=http%3A%2F%2Furi.gbv.de%2Fterminology%2Fbk%2F&from=http%3A%2F%2Frvk.uni-regensburg.de%2Fnt%2FNN%25201810
+"QT 000",Allgemeines,https://coli-conc.gbv.de/cocoda/app/?fromScheme=http%3A%2F%2Furi.gbv.de%2Fterminology%2Frvk%2F&toScheme=http%3A%2F%2Furi.gbv.de%2Fterminology%2Fbk%2F&from=http%3A%2F%2Frvk.uni-regensburg.de%2Fnt%2FQT%2520000
+"QY 000",Allgemeines,https://coli-conc.gbv.de/cocoda/app/?fromScheme=http%3A%2F%2Furi.gbv.de%2Fterminology%2Frvk%2F&toScheme=http%3A%2F%2Furi.gbv.de%2Fterminology%2Fbk%2F&from=http%3A%2F%2Frvk.uni-regensburg.de%2Fnt%2FQY%2520000
+"NK 1800","Deutsche Geschichte",https://coli-conc.gbv.de/cocoda/app/?fromScheme=http%3A%2F%2Furi.gbv.de%2Fterminology%2Frvk%2F&toScheme=http%3A%2F%2Furi.gbv.de%2Fterminology%2Fbk%2F&from=http%3A%2F%2Frvk.uni-regensburg.de%2Fnt%2FNK%25201800
+"QP 530","Beschaffung und Lagerhaltung",https://coli-conc.gbv.de/cocoda/app/?fromScheme=http%3A%2F%2Furi.gbv.de%2Fterminology%2Frvk%2F&toScheme=http%3A%2F%2Furi.gbv.de%2Fterminology%2Fbk%2F&from=http%3A%2F%2Frvk.uni-regensburg.de%2Fnt%2FQP%2520530
+"CC 4400","Abhandlungen zur Erkenntnistheorie",https://coli-conc.gbv.de/cocoda/app/?fromScheme=http%3A%2F%2Furi.gbv.de%2Fterminology%2Frvk%2F&toScheme=http%3A%2F%2Furi.gbv.de%2Fterminology%2Fbk%2F&from=http%3A%2F%2Frvk.uni-regensburg.de%2Fnt%2FCC%25204400
+"LT 11750",allgemein,https://coli-conc.gbv.de/cocoda/app/?fromScheme=http%3A%2F%2Furi.gbv.de%2Fterminology%2Frvk%2F&toScheme=http%3A%2F%2Furi.gbv.de%2Fterminology%2Fbk%2F&from=http%3A%2F%2Frvk.uni-regensburg.de%2Fnt%2FLT%252011750
+"BU 4050","Kinder- und Hausbibeln (bis Erscheinungsjahr 1999)",https://coli-conc.gbv.de/cocoda/app/?fromScheme=http%3A%2F%2Furi.gbv.de%2Fterminology%2Frvk%2F&toScheme=http%3A%2F%2Furi.gbv.de%2Fterminology%2Fbk%2F&from=http%3A%2F%2Frvk.uni-regensburg.de%2Fnt%2FBU%25204050
+"QD 110","Kapitalismus. Liberalismus. Interventionismus. Wettbewerbsordnungssysteme",https://coli-conc.gbv.de/cocoda/app/?fromScheme=http%3A%2F%2Furi.gbv.de%2Fterminology%2Frvk%2F&toScheme=http%3A%2F%2Furi.gbv.de%2Fterminology%2Fbk%2F&from=http%3A%2F%2Frvk.uni-regensburg.de%2Fnt%2FQD%2520110
+"UD 1900","Kongresse allgemeiner oder theoretisch-physikalischer Thematik",https://coli-conc.gbv.de/cocoda/app/?fromScheme=http%3A%2F%2Furi.gbv.de%2Fterminology%2Frvk%2F&toScheme=http%3A%2F%2Furi.gbv.de%2Fterminology%2Fbk%2F&from=http%3A%2F%2Frvk.uni-regensburg.de%2Fnt%2FUD%25201900
+"CZ 3000","Psychopathologie, Psychiatrie",https://coli-conc.gbv.de/cocoda/app/?fromScheme=http%3A%2F%2Furi.gbv.de%2Fterminology%2Frvk%2F&toScheme=http%3A%2F%2Furi.gbv.de%2Fterminology%2Fbk%2F&from=http%3A%2F%2Frvk.uni-regensburg.de%2Fnt%2FCZ%25203000
+"ZO 4420","Personen-, Kraftwagen",https://coli-conc.gbv.de/cocoda/app/?fromScheme=http%3A%2F%2Furi.gbv.de%2Fterminology%2Frvk%2F&toScheme=http%3A%2F%2Furi.gbv.de%2Fterminology%2Fbk%2F&from=http%3A%2F%2Frvk.uni-regensburg.de%2Fnt%2FZO%25204420
+"CR 6000","Sexualität, geschlechtsspezifische Differenzen",https://coli-conc.gbv.de/cocoda/app/?fromScheme=http%3A%2F%2Furi.gbv.de%2Fterminology%2Frvk%2F&toScheme=http%3A%2F%2Furi.gbv.de%2Fterminology%2Fbk%2F&from=http%3A%2F%2Frvk.uni-regensburg.de%2Fnt%2FCR%25206000
+"QC 340",Allgemeines,https://coli-conc.gbv.de/cocoda/app/?fromScheme=http%3A%2F%2Furi.gbv.de%2Fterminology%2Frvk%2F&toScheme=http%3A%2F%2Furi.gbv.de%2Fterminology%2Fbk%2F&from=http%3A%2F%2Frvk.uni-regensburg.de%2Fnt%2FQC%2520340
+"MS 1290","Sozialphilosophie (auch Theorie der Gesellschaft), Sozial- und Kulturkritik (auch Dialektik), Entfremdung",https://coli-conc.gbv.de/cocoda/app/?fromScheme=http%3A%2F%2Furi.gbv.de%2Fterminology%2Frvk%2F&toScheme=http%3A%2F%2Furi.gbv.de%2Fterminology%2Fbk%2F&from=http%3A%2F%2Frvk.uni-regensburg.de%2Fnt%2FMS%25201290
+"CV 8000","Spezielle Probleme der Sozialpsychologie (Hochschule, Familie usw.)",https://coli-conc.gbv.de/cocoda/app/?fromScheme=http%3A%2F%2Furi.gbv.de%2Fterminology%2Frvk%2F&toScheme=http%3A%2F%2Furi.gbv.de%2Fterminology%2Fbk%2F&from=http%3A%2F%2Frvk.uni-regensburg.de%2Fnt%2FCV%25208000
+"QR 530",Allgemeines,https://coli-conc.gbv.de/cocoda/app/?fromScheme=http%3A%2F%2Furi.gbv.de%2Fterminology%2Frvk%2F&toScheme=http%3A%2F%2Furi.gbv.de%2Fterminology%2Fbk%2F&from=http%3A%2F%2Frvk.uni-regensburg.de%2Fnt%2FQR%2520530
+"QK 300",Allgemeines,https://coli-conc.gbv.de/cocoda/app/?fromScheme=http%3A%2F%2Furi.gbv.de%2Fterminology%2Frvk%2F&toScheme=http%3A%2F%2Furi.gbv.de%2Fterminology%2Fbk%2F&from=http%3A%2F%2Frvk.uni-regensburg.de%2Fnt%2FQK%2520300
+"BB 1340","Theologische Bücherverzeichnisse, Kataloge, Systematiken u.ä.",https://coli-conc.gbv.de/cocoda/app/?fromScheme=http%3A%2F%2Furi.gbv.de%2Fterminology%2Frvk%2F&toScheme=http%3A%2F%2Furi.gbv.de%2Fterminology%2Fbk%2F&from=http%3A%2F%2Frvk.uni-regensburg.de%2Fnt%2FBB%25201340
+"QV 578","Personalplanung, Personalpolitik",https://coli-conc.gbv.de/cocoda/app/?fromScheme=http%3A%2F%2Furi.gbv.de%2Fterminology%2Frvk%2F&toScheme=http%3A%2F%2Furi.gbv.de%2Fterminology%2Fbk%2F&from=http%3A%2F%2Frvk.uni-regensburg.de%2Fnt%2FQV%2520578
+"HI 3280",Dramen,https://coli-conc.gbv.de/cocoda/app/?fromScheme=http%3A%2F%2Furi.gbv.de%2Fterminology%2Frvk%2F&toScheme=http%3A%2F%2Furi.gbv.de%2Fterminology%2Fbk%2F&from=http%3A%2F%2Frvk.uni-regensburg.de%2Fnt%2FHI%25203280
+"FB 3725",Schulgrammatiken,https://coli-conc.gbv.de/cocoda/app/?fromScheme=http%3A%2F%2Furi.gbv.de%2Fterminology%2Frvk%2F&toScheme=http%3A%2F%2Furi.gbv.de%2Fterminology%2Fbk%2F&from=http%3A%2F%2Frvk.uni-regensburg.de%2Fnt%2FFB%25203725
+"QE 800","Einzelne Wissenschaftler (einschließlich biografisches Material)",https://coli-conc.gbv.de/cocoda/app/?fromScheme=http%3A%2F%2Furi.gbv.de%2Fterminology%2Frvk%2F&toScheme=http%3A%2F%2Furi.gbv.de%2Fterminology%2Fbk%2F&from=http%3A%2F%2Frvk.uni-regensburg.de%2Fnt%2FQE%2520800
+"QP 342","Soziologische und psychologische Aspekte",https://coli-conc.gbv.de/cocoda/app/?fromScheme=http%3A%2F%2Furi.gbv.de%2Fterminology%2Frvk%2F&toScheme=http%3A%2F%2Furi.gbv.de%2Fterminology%2Fbk%2F&from=http%3A%2F%2Frvk.uni-regensburg.de%2Fnt%2FQP%2520342
+"NK 4600","USA, Allgemeines",https://coli-conc.gbv.de/cocoda/app/?fromScheme=http%3A%2F%2Furi.gbv.de%2Fterminology%2Frvk%2F&toScheme=http%3A%2F%2Furi.gbv.de%2Fterminology%2Fbk%2F&from=http%3A%2F%2Frvk.uni-regensburg.de%2Fnt%2FNK%25204600
+"QP 621",Absatzmethoden,https://coli-conc.gbv.de/cocoda/app/?fromScheme=http%3A%2F%2Furi.gbv.de%2Fterminology%2Frvk%2F&toScheme=http%3A%2F%2Furi.gbv.de%2Fterminology%2Fbk%2F&from=http%3A%2F%2Frvk.uni-regensburg.de%2Fnt%2FQP%2520621
+"CU 4000","Spezielle Verhaltensstörungen und Symptome",https://coli-conc.gbv.de/cocoda/app/?fromScheme=http%3A%2F%2Furi.gbv.de%2Fterminology%2Frvk%2F&toScheme=http%3A%2F%2Furi.gbv.de%2Fterminology%2Fbk%2F&from=http%3A%2F%2Frvk.uni-regensburg.de%2Fnt%2FCU%25204000
+"QV 570",Allgemeines,https://coli-conc.gbv.de/cocoda/app/?fromScheme=http%3A%2F%2Furi.gbv.de%2Fterminology%2Frvk%2F&toScheme=http%3A%2F%2Furi.gbv.de%2Fterminology%2Fbk%2F&from=http%3A%2F%2Frvk.uni-regensburg.de%2Fnt%2FQV%2520570
+"NB 9310","Lehrbücher nach 1945",https://coli-conc.gbv.de/cocoda/app/?fromScheme=http%3A%2F%2Furi.gbv.de%2Fterminology%2Frvk%2F&toScheme=http%3A%2F%2Furi.gbv.de%2Fterminology%2Fbk%2F&from=http%3A%2F%2Frvk.uni-regensburg.de%2Fnt%2FNB%25209310
+"LH 65880","21. Jahrhundert",https://coli-conc.gbv.de/cocoda/app/?fromScheme=http%3A%2F%2Furi.gbv.de%2Fterminology%2Frvk%2F&toScheme=http%3A%2F%2Furi.gbv.de%2Fterminology%2Fbk%2F&from=http%3A%2F%2Frvk.uni-regensburg.de%2Fnt%2FLH%252065880
+"QX 700",Allgemeines,https://coli-conc.gbv.de/cocoda/app/?fromScheme=http%3A%2F%2Furi.gbv.de%2Fterminology%2Frvk%2F&toScheme=http%3A%2F%2Furi.gbv.de%2Fterminology%2Fbk%2F&from=http%3A%2F%2Frvk.uni-regensburg.de%2Fnt%2FQX%2520700
+"IV 51280","Übrige Autoren",https://coli-conc.gbv.de/cocoda/app/?fromScheme=http%3A%2F%2Furi.gbv.de%2Fterminology%2Frvk%2F&toScheme=http%3A%2F%2Furi.gbv.de%2Fterminology%2Fbk%2F&from=http%3A%2F%2Frvk.uni-regensburg.de%2Fnt%2FIV%252051280
+"QM 420","EWG bzw. EG. Montanunion",https://coli-conc.gbv.de/cocoda/app/?fromScheme=http%3A%2F%2Furi.gbv.de%2Fterminology%2Frvk%2F&toScheme=http%3A%2F%2Furi.gbv.de%2Fterminology%2Fbk%2F&from=http%3A%2F%2Frvk.uni-regensburg.de%2Fnt%2FQM%2520420
+"KP 9920",Sonstige,https://coli-conc.gbv.de/cocoda/app/?fromScheme=http%3A%2F%2Furi.gbv.de%2Fterminology%2Frvk%2F&toScheme=http%3A%2F%2Furi.gbv.de%2Fterminology%2Fbk%2F&from=http%3A%2F%2Frvk.uni-regensburg.de%2Fnt%2FKP%25209920
+"DX 4900",Primärliteratur,https://coli-conc.gbv.de/cocoda/app/?fromScheme=http%3A%2F%2Furi.gbv.de%2Fterminology%2Frvk%2F&toScheme=http%3A%2F%2Furi.gbv.de%2Fterminology%2Fbk%2F&from=http%3A%2F%2Frvk.uni-regensburg.de%2Fnt%2FDX%25204900
+"NK 8200","Historiker-Festschriften und Aufsatzsammlungen von Historikern, Allgemeines",https://coli-conc.gbv.de/cocoda/app/?fromScheme=http%3A%2F%2Furi.gbv.de%2Fterminology%2Frvk%2F&toScheme=http%3A%2F%2Furi.gbv.de%2Fterminology%2Fbk%2F&from=http%3A%2F%2Frvk.uni-regensburg.de%2Fnt%2FNK%25208200
+"BC 2500",Ursprache,https://coli-conc.gbv.de/cocoda/app/?fromScheme=http%3A%2F%2Furi.gbv.de%2Fterminology%2Frvk%2F&toScheme=http%3A%2F%2Furi.gbv.de%2Fterminology%2Fbk%2F&from=http%3A%2F%2Frvk.uni-regensburg.de%2Fnt%2FBC%25202500

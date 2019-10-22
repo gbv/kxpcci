@@ -40,6 +40,10 @@ Die Suche nach passenden Mappings ist per JSKOS-API unter <https://coli-conc.gbv
 
 Für Anforderung 2 wäre es hilfreich die JSKOS-API so zu erweitern, dass nur geprüfte Mappings zurückgeliefert werden, die Filterung kann aber zunächst auch durch den Client erfolgen (siehe Beispiel-Abfrage nach Annotationen des Mappings oben).
 
+Für den Anfang wurde eine Liste der RVK-Notationen erstellt, die am häufigsten in Titeldatensätzen ohne BK auftauchen. Die TOP 100 decken rund 500.000 Titel ab:
+
+* [rvk-no-bk-top120.csv](rvk-no-bk-top120.csv)
+
 ### Eintragung in K10plus
 
 BK-Notationen werden in PICA `045Q[0X]$a` eingetragen und in MARC auf `080{$2=bkl}` gemappt. Beispiel:

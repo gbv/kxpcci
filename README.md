@@ -80,3 +80,12 @@ Zunächst kann die Eintragung ausgehend von bekannten RVK-Notationen erfolgen. D
 Der Schritt "Finde passende BK-RVK-Mappings" erfolgt durch einfache API-Abfrage (siehe Beispiel oben).
 
 Der Algorithmus zur Bestimmung passender Mappings kann später noch verfeinert werden bspw. um auch 1-zu-n Mappings und ungemappte Klassen mit gemappten Oberklassen zu unterstützen. Dies gilt auch für die Form der "Überprüfung ob Mapping noch immer gilt".
+
+## Webanwendung zum Testen der Eintragung
+
+Für Anforderung 5 soll eine Webanwendung bereitgestellt werden um die Auswirkung von Mappings auf die Sacherschließung vorab einsehen zu können:
+
+* SRU Anfrage mit Titeln
+* Ergebnis wird analysiert
+* Vorhandene und zu ändernde RVK/BK werden angezeigt
+* Optional Auswahl welche Mappings berücksichtigt werden sollen
